@@ -1,6 +1,6 @@
 <img  src="https://github.com/nazir-hussain/nazir-hussain/blob/main/javascript.gif" />
 
-## Hi there, <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"> I am [Shivam Sainy](#/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+## Hi there, <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"> I am [Shivam Saini](#/) <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 
 ### About me  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30px">
